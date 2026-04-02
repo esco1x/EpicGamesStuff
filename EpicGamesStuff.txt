@@ -586,11 +586,7 @@ EGP Client:                189f729a313e415db0876a2091fecd8f | KiFmhdUYv7Dq6jVRe3
 The sectionID & offerGroupId together from [https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/mp-item-shop] equal/match the LayoutId in the shop api [https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/catalog?lang=en]
 Example: "sectionID": "RickandMorty", "offerGroupId": "97" | "LayoutId": "RickandMorty.97"
 
-Anything after 7pm say "Tonight" for the shop sections, anything before it say "Tomorrow"
-
 STW XP Path: FortniteGame/Content/Items/STWAccolades/STW_Accolade_Tracker.uasset
-XP Dates: [Everything - Resets Weekly on Friday 9AM ET] | [STW - Resets Weekly on Tuesday 00:00UTC]
-Creative XP Potentially on saturdays at 1am AEDT
 
 --------------------------------------------------------------------------------------------------------------------------------
 
